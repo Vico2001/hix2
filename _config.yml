@@ -3,15 +3,15 @@
 
 # Site settings
 title: Hey, I´am Adrian Coello 
-description: |
+description: |hello, its me
 owner: Adrian Coello # or company name
 first_published: 2016 # if migrating another site, the year of your first publish
 email: https://mail.google.com/mail/u/1/#inbox
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://vico2001.github.io/#.com" # the base hostname & protocol for your site
 social:
-  twitter: https://twitter.com/<username>
-  github: https://github.com/<username>
+  twitter: https://twitter.com/Adrian91826823
+  github: https://github.com/Vico2001
   linkedin-square: https://linkedin.com/in/<username>
   facebook-official: https://www.facebook.com/pg/Adrian-Coello-Beginner-Developer-107318994102574/posts/?ref=page_internal
   google-plus-square: https://plus.google.com/u/0/+<username>
